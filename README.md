@@ -1,4 +1,4 @@
 # Bootstrap-Template
 static website using bootstrap
 <br>
-<a>https://manoharys.github.io/Bootstrap-Template/</a>
+<a href="https://manoharys.github.io/Bootstrap-Template/">Check out </a>
